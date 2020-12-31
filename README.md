@@ -1,7 +1,7 @@
 # Wrangling-Twitter-API
 
 
-**In this project, I gather, assess, wrangle, and clean a dataset assembled from data from the channel "We rate dogs". I use Twitter API to query the text of the tweets and gather missing columns from the base dataset, and request a dataset with the associated predicted images. I use Python tools to assess any problems with the data. The result is a tidy and useful dataset of good quality data.**
+**In this project, I gather, assess, wrangle, and clean a dataset assembled from the Twitter channel "We rate dogs". I use Twitter API to query the text of the tweets and gather missing columns from the base dataset, and request a dataset with the associated predicted images. I use Python tools to assess any problems with the data. The result is a tidy and useful dataset of good quality data.**
 
 ## Project Tasks:
 Tasks in this project are as follows:
