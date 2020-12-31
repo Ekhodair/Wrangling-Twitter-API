@@ -1,8 +1,7 @@
 # Wrangling-Twitter-API
 
 
-**In this project, I gather, assess, wrangle, and clean a dataset assembled from the Twitter channel "We rate dogs". I use Twitter API to query the text of the tweets and gather missing columns from the base dataset, and request a dataset with the associated predicted images. I use Python tools to assess any problems with the data. The result is a tidy and useful dataset of good quality data.**
-
+**In this project, I gather, assess, wrangle, and clean a dataset assembled from the Twitter channel "We rate dogs". I use Twitter API to query the text of the tweets and gather missing columns from the base dataset, and request a dataset with the associated predicted images. I use Python along with (Pandas, NumPy, Matplotlib, Seaborn datetime, requests, tweepy, json, wordcloud, PIL) tools to assess, clean, analyze, and visualize the dataset.**
 ## Project Tasks:
 Tasks in this project are as follows:
 
@@ -27,12 +26,15 @@ The breeds whose photos and related tweets were most retweeted were also, in ord
 ![](images/favorite.JPG)
 `French bulldog` appears in the fifth place exceeding `Samoyed` which gets more retweeted than liked.
 
-![](images/stage.JPG)
 ## Stage popularity
+
+![](images/stage.JPG)
 The most common stage mentioned is `pupper`, more than twice as high as those mentioned in the stage `doggo`, in turn twice as frequent as the least common stage `puppo`.
 
-
+## Interaction per month
 ![](images/month.JPG)
+
+## Wordcloud extracted from text
 ![](images/wordcloud.JPG)
 
 
